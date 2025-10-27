@@ -1,0 +1,2 @@
+# Projects-PDF-to-Audiobook-Converter-and-Fake-News-Detector
+two useful AI-driven Python projects: The PDF to Audiobook Converter transforms PDF files into spoken words using Tkinter and pyttsx3. The Fake News Detector employs natural language processing with TF-IDF and Logistic Regression in Streamlit to determine whether news articles are genuine or false, straightforward, precise, and user-friendly.
